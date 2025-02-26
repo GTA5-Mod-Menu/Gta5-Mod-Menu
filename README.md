@@ -16,8 +16,5 @@
 3. Open the menu using the designated keybind and explore various customization options.
 4. Activate your desired cheats and enjoy an enhanced gaming experience!
 
-## 📌 Disclaimer:
-This mod menu is intended for single-player use only. Using mods in GTA Online may violate Rockstar's terms of service and result in account bans. Use responsibly and at your own risk.
-
 ## 🔗 Support and Contributions:
 If you encounter any issues or have suggestions for new features, feel free to open an issue or submit a pull request. Contributions from the community are always welcome!
